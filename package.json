@@ -1,0 +1,24 @@
+{
+  "name": "@aayushmax/notescli",
+  "version": "1.0.2",
+  "description": "A very simple note taking app built to work directly form the CLI storing all notes locally in the $HOME/User/.my_notes directory.",
+  "main": "cli.js",
+  "bin":{
+    "anote": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-aayushvats/NotesCLI.git"
+  },
+  "keywords": [],
+  "author": "@aayushmax",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dev-aayushvats/NotesCLI/issues"
+  },
+  "homepage": "https://github.com/dev-aayushvats/NotesCLI#readme"
+}
